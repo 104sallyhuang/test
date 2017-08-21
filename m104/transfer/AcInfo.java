@@ -1,6 +1,7 @@
 package com.m104.transfer;
 
 public class AcInfo {
+	String abc;
 	String email;
 	String familyName;
 	String firstName;
