@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import com.e104.biz.ap.E104GlobalXml;
 
 public class DoConnection {
-	public static String APNO = "2049";
+	public static String APNO = "12345";
 	// TODO Auto-generated method stub
 	private static E104GlobalXml gx= new E104GlobalXml(APNO);
 

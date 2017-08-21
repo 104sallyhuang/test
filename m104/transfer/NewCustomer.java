@@ -1,7 +1,7 @@
 package com.m104.transfer;
 
 public class NewCustomer {
-	String name;
+	String nameaaaaa;
 	String sales;
 	String status;
 	String contact_person;
