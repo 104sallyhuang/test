@@ -1,7 +1,6 @@
 package com.m104.transfer;
 
 public class AcInfo {
-	String abc;
 	String email;
 	String familyName;
 	String firstName;
@@ -15,6 +14,7 @@ public class AcInfo {
 	String identity;
 	String pid;
 	String mdmkey;
+	String aaaa;
 	
 	public String getMdmkey() {
 		return mdmkey;
